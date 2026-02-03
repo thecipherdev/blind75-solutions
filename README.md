@@ -10,3 +10,4 @@ It's the gold standard for efficient interview preparation.
 
 | No | Problem | Difficulty | Pattern | Notes |
 | 1 | [Two Sum](./array/1_two_sum.py) | Easy | Hash Map | Most asked question |
+| 2 | [Best Time to Buy and Sell Stock](./array/121_best_time_to_buy_and_sell_stock.py) | Easy | One Pass | |
