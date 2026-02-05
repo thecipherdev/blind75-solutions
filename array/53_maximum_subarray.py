@@ -1,5 +1,7 @@
 from typing import List
 
+# https://leetcode.com/problems/maximum-subarray/description/
+
 
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
